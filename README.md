@@ -5,7 +5,8 @@ A student types a study question and gets a clear, generated answer in one of th
 **Simple**, **Exam-oriented** or **Example-based**.
 
 **Author:** Anagandula Shivani (236F1A6703), CSE (Data Science)
-**College:** Pallavi Engineering College | **Academic Year:** 2026-2027
+**College:** Pallavi Engineering College 
+**Academic Year:** 2026-2027
 **Guide:** Mr. Ragavendra Roa
 
 ## Features
